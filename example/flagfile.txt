@@ -1,0 +1,6 @@
+--input_path=./example
+--output_path=./example
+--filename_x=x.fth
+--filename_y=y.fth
+--shuffle=True
+--test_size=0.2
