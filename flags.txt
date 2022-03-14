@@ -1,2 +1,0 @@
---input_path=./input
---output_path=./output
